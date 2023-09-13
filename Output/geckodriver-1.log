@@ -1,0 +1,15 @@
+1694617058920	geckodriver	INFO	Listening on 127.0.0.1:59189
+1694617062182	mozrunner::runner	INFO	Running command: "C:\\Users\\mary1\\.cache\\selenium\\firefox\\win64\\117.0.1\\firefox.exe" "--marionette" "--remote-debuggin ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mary1\\AppData\\Local\\Temp\\rust_mozprofileYW0InJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694617063831	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694617064018	Marionette	INFO	Listening on port 59198
+WebDriver BiDi listening on ws://127.0.0.1:59190
+Read port: 59198
+1694617064966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59190/devtools/browser/05967fd6-33ba-420b-ba8e-37053c0d020c
+JavaScript warning: https://www.amazon.com/, line 1949: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694617079163	Marionette	INFO	Stopped listening on port 59198
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
